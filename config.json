@@ -17,11 +17,6 @@
         "imuncle" : "https://imuncle.github.io"
     },
     "icons": {
- #       "Github" : {
- #           "icon_src" : "images/github.svg",
- #           "href" : "https://github.com/imuncle/gitblog",
- #           "hidden_img" : null,
- #           "width" : 0
-        }
+
     }
 }
